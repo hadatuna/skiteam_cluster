@@ -1,6 +1,6 @@
 <PMML version="4.3" xmlns="http://www.dmg.org/PMML-4_3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dmg.org/PMML-4_3 http://www.dmg.org/pmml/v4-3/pmml-4-3.xsd">
  <Header copyright="Copyright (c) 2018 hadatuna" description="KMeans cluster model">
-  <Extension name="user" value="hadachi" extender="Rattle/PMML"/>
+  <Extension name="user" value="hadatuna" extender="Rattle/PMML"/>
   <Application name="Rattle/PMML" version="1.4"/>
   <Timestamp>2018-02-27 09:19:11</Timestamp>
  </Header>
